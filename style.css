@@ -1,0 +1,95 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Roboto Serif", sans-serif;
+  font-weight: bold;
+}
+
+body {
+  background: linear-gradient(
+    292deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(23, 154, 235, 1) 0%,
+    rgba(37, 176, 212, 1) 46%
+  );
+}
+
+h1 {
+  margin-top: 30px;
+  padding: 20px;
+  text-align: center;
+}
+
+.container {
+  text-align: center;
+  min-width: 45%;
+  max-width: max-content;
+  margin: auto;
+  padding: 20px;
+  box-shadow: #01041370 -10px 10px 25px;
+}
+
+#input-tarefa {
+  padding: 10px;
+  border-radius: 5px;
+  width: 80%;
+  text-align: center;
+  color: black;
+}
+
+#button {
+  padding: 10px;
+  background: #fff;
+}
+
+#button:hover {
+  background-color: #1356d3e4;
+  color: #f4f4f4;
+}
+
+.done {
+  background: rgba(20, 86, 186, 0.879) !important;
+  color: white;
+  text-decoration: line-through;
+}
+
+.delete {
+  display: none;
+}
+
+.list-container {
+  text-align: center;
+  min-width: 45%;
+  max-width: max-content;
+  margin: auto;
+  padding: 20px;
+  margin-top: 40px;
+  box-shadow: #01041370 -10px 10px 25px;
+}
+
+li {
+  list-style: none;
+  padding: 10px;
+  color: white;
+  text-transform: capitalize;
+  border: 2px solid black;
+  margin-bottom: 20px;
+  background: #4eb9cd;
+}
+
+li:hover {
+  background: #76cfe0;
+}
+
+li > button {
+  float: right;
+  background: none;
+  border: none;
+  color: black;
+}
+
+button,
+li {
+  cursor: pointer;
+}
