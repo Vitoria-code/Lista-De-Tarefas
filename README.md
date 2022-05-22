@@ -14,13 +14,10 @@
 
 <h1>Ideias que pretendo aplicar no projeto ainda...</h1>
 <ul>
-  <li>Incluir Local Storage e JSON,</li>
-  <li>Melhorar o CSS, incluir uma lixeira nos botões de delete,</li>
-  <li>Criar um botão de delete para todas as tarefas,</li>
-  <li>Criar um alert "Inserir tarefa" para quando o usuário pressionar apenas "enter",</li>
-  <li>Criar uma condição para não permitir inserir uma tarefa utilizando apenas espaço.</li>
+  <li>Incluir Local Storage e JSON</li>
+  <li>Melhorar o CSS, incluir uma lixeira nos botões de delete</li>
  </ul>
 
- <h1>Tecnologias utilizadas e link da lista ...</h1>
+ <h1>Tecnologias utilizadas e link da lista:</h1>
 
 Para resolver esse dasafio foi utilizado HTML,CSS e javascript.
