@@ -21,3 +21,5 @@
  <h1>Tecnologias utilizadas e link da lista:</h1>
 
 Para resolver esse dasafio foi utilizado HTML,CSS e javascript.
+
+Link:https://vitoria-code.github.io/Lista-De-Tarefas/
